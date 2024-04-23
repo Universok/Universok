@@ -12,7 +12,7 @@ Soy un estudiante apasionado de la Ingeniería en Informática 👨‍💻 . Me 
 ## Experiencia Laboral
 *Actualmente estoy enfocado en mi educación y desarrollo académico.* 🎓
 
-## Habilidades
+## Formación Educativa y Habilidades
 - 👾Programación en [PSeInt,Python,HTML,CSS]
 - 🔥 Diseño gráfico
 - 📹Edición de video 
