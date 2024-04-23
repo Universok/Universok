@@ -19,7 +19,7 @@ Soy un estudiante apasionado de la Ingeniería en Informática 👨‍💻 . Me 
 - 🚀Desarrollo web
 
 ## Proyectos Destacados* 
-- **Proyecto de Comunicación Audiovisual Digital:** Director y Camarógrafo en Programa Televisivo de Economía "La Mesa". 📺
+- **Proyecto en Comunicación Audiovisual Digital:** Director y Camarógrafo en Programa Televisivo de Economía "La Mesa". 📺
 
 ## Contacto
 - LinkedIn: [Mauricio Riquelme Espinoza](https://www.linkedin.com/in/mauricio-riquelme-espinoza-a0771357/)
