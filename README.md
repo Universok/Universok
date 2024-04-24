@@ -5,15 +5,15 @@ Soy un estudiante apasionado de la Ingeniería en Informática 👨‍💻 . Me 
 
 ## Educación
 - **Ingeniería en Informática**
-  Universidad [INACAP], 2023 - Presente
+  Universidad INACAP, 2023 - Presente
 - **Técnico en Comunicación Audiovisual Digital**
-  [Instituto Profesional Santo Tomas], 2009 - 2012
+  Instituto Profesional Santo Tomas, 2009 - 2012
 
 ## Experiencia Laboral
 *Actualmente estoy enfocado en mi educación y desarrollo académico.* 🎓
 
 ## Formación Educativa y Habilidades
-- 👾Programación en [Python,HTML,CSS]
+- 👾Programación en Python,HTML,CSS.
 - 🔥 Diseño gráfico
 - 📹Edición de video 
 - 🚀Desarrollo web
