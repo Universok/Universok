@@ -13,8 +13,8 @@ Soy un estudiante apasionado de la Ingeniería en Informática 👨‍💻 . Me 
 *Actualmente estoy enfocado en mi educación y desarrollo académico.* 🎓
 
 ## Formación Educativa y Habilidades
-- 👾Programación en Python,HTML,CSS.
-- 🔥 Diseño gráfico
+- 👾Programación
+- 📸Fotografia 
 - 📹Edición de video 
 - 🚀Desarrollo web
 
