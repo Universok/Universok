@@ -1,7 +1,7 @@
 # Mauricio Riquelme Espinoza
 
 ## Acerca de mí
-Soy un estudiante apasionado de la Ingeniería en Informática 👨‍💻 . Me encanta explorar nuevas tecnologías y aprender sobre desarrollo de software y diseño digital.
+Soy estudiante en Ingeniería en Informática 👨‍💻 . Me encanta explorar nuevas tecnologías y aprender sobre desarrollo de software y diseño digital.
 
 ## Educación
 - **Ingeniería en Informática**
