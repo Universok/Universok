@@ -19,6 +19,7 @@ Soy un estudiante apasionado de la Ingeniería en Informática 👨‍💻 . Me 
 - 📸Fotografia 
 - 📹Edición de video 
 - 🚀Desarrollo web
+- ⚙️Soluciones TI
 
 ## Proyectos Destacados* 
 - **Proyecto en Comunicación Audiovisual Digital:** Director y Camarógrafo en Programa Televisivo de Economía "La Mesa". 📺
